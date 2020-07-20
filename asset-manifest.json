@@ -1,14 +1,16 @@
 {
-  "main.css": "/React-Portfoilio/static/css/main.e913524c.chunk.css",
-  "main.js": "/React-Portfoilio/static/js/main.390f3ed5.chunk.js",
-  "main.js.map": "/React-Portfoilio/static/js/main.390f3ed5.chunk.js.map",
+  "main.css": "/React-Portfoilio/static/css/main.60d0b20f.chunk.css",
+  "main.js": "/React-Portfoilio/static/js/main.9e96144e.chunk.js",
+  "main.js.map": "/React-Portfoilio/static/js/main.9e96144e.chunk.js.map",
   "runtime~main.js": "/React-Portfoilio/static/js/runtime~main.bb3565e3.js",
   "runtime~main.js.map": "/React-Portfoilio/static/js/runtime~main.bb3565e3.js.map",
-  "static/js/2.5145a938.chunk.js": "/React-Portfoilio/static/js/2.5145a938.chunk.js",
-  "static/js/2.5145a938.chunk.js.map": "/React-Portfoilio/static/js/2.5145a938.chunk.js.map",
+  "static/js/2.c2fc7f47.chunk.js": "/React-Portfoilio/static/js/2.c2fc7f47.chunk.js",
+  "static/js/2.c2fc7f47.chunk.js.map": "/React-Portfoilio/static/js/2.c2fc7f47.chunk.js.map",
   "index.html": "/React-Portfoilio/index.html",
-  "precache-manifest.2faff6da1ded644836dbee8c75394f74.js": "/React-Portfoilio/precache-manifest.2faff6da1ded644836dbee8c75394f74.js",
+  "precache-manifest.ffbb68a8f14ba3e8d85f7cf21e324348.js": "/React-Portfoilio/precache-manifest.ffbb68a8f14ba3e8d85f7cf21e324348.js",
   "service-worker.js": "/React-Portfoilio/service-worker.js",
-  "static/css/main.e913524c.chunk.css.map": "/React-Portfoilio/static/css/main.e913524c.chunk.css.map",
-  "static/media/logo.svg": "/React-Portfoilio/static/media/logo.495d93cc.svg"
+  "static/css/main.60d0b20f.chunk.css.map": "/React-Portfoilio/static/css/main.60d0b20f.chunk.css.map",
+  "static/media/Adam Parsons Resume.pdf": "/React-Portfoilio/static/media/Adam Parsons Resume.5a128efc.pdf",
+  "static/media/leather_1.png": "/React-Portfoilio/static/media/leather_1.812fede9.png",
+  "static/media/profile picture.jpg": "/React-Portfoilio/static/media/profile picture.6bb6e193.jpg"
 }

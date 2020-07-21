@@ -28,7 +28,7 @@ Portfolio
 ![Portfolio](screenshots/portfolio.JPG "Portfolio")
 
 
-Rejected Input
+Contact Page
 
 
 ![Contact](screenshots/contact.jpg "Contact")

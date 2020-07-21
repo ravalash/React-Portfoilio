@@ -25,7 +25,7 @@ About Me
 Portfolio
 
 
-![Portfolio](screenshots/portfolio.jpg "Portfolio")
+![Portfolio](screenshots/portfolio.JPG "Portfolio")
 
 
 Rejected Input

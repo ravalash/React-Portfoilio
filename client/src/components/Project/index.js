@@ -1,10 +1,13 @@
 import React from "react";
+
 function Project(props) {
-    console.log(props)
     return (
   
 
-
+<div className="row mt-3">
+      {props.projects.map(item => (
+       
+<div className="col-md-6 pb-4">
 <div
   className="card text-center"
   style={{
@@ -15,14 +18,14 @@ function Project(props) {
   }}
 >
   <div className="card-header">
-    <a href={props.repo} target="_blank" rel="noopener noreferrer">
-      <h5 style={{fontWeight: 'bold', color: 'black'}}>{props.title}</h5>
+    <a href={item.repo} target="_blank" rel="noopener noreferrer">
+      <h5 style={{fontWeight: 'bold', color: 'black'}}>{item.title}</h5>
     </a>
   </div>
-  <a href={props.page} target="_blank" rel="noopener noreferrer">
+  <a href={item.page} target="_blank" rel="noopener noreferrer">
     <img
       className="card-img-top"
-      src={props.bg}
+      src={item.bg}
       alt="Card cap"
       style={{border: 'blanchedalmond solid 2px'}}
     />
@@ -30,11 +33,18 @@ function Project(props) {
 
   <div className="card-body d-flex align-items-end">
     <p className="card-text">
-      {props.description}
+      {item.description}
     </p>
   </div>
 </div>
-    )
+</div>
+
+      ))}
+</div>
+
+      )
+      
+    
 }
 
 export default Project;

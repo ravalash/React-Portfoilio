@@ -3,6 +3,14 @@ import Project from "../Project";
 import projects from '../../projects.json'
 
 import BGImg from "../../assets/leather_1.png";
+import pimg1 from "../../assets/workday.jpg";
+import pimg2 from "../../assets/missmarymagic.jpg";
+import pimg3 from "../../assets/triviagame.jpg";
+import pimg4 from "../../assets/weatherdashboard.jpg";
+import pimg5 from "../../assets/movieme.jpg";
+import pimg6 from "../../assets/passwordgenerator.jpg";
+import pimg7 from "../../assets/eatdaburger.jpg";
+import pimg8 from "../../assets/globeplotter.jpg";
 
 function Portfolio() {
   return (

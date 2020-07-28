@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title":"Miss Mary's Magical Mini Movie Machine",
-    "bg": "missmarymagic.jpg",
+    "bg": "/React-Portfoilio/static/media/missmarymagic.3075e320.jpg",
     "repo":"https://github.com/ravalash/MarysMovieMachine",
     "page":"https://ravalash.github.io/MarysMovieMachine/",
     "description": "An application for teaching students social skills through distance learning"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title":"Trivia Game",
-    "bg": "triviagame.jpg",
+    "bg": "/React-Portfoilio/static/media/triviagame.e0cbf125.jpg",
     "repo":"https://github.com/ravalash/Code-Quiz",
     "page":"https://ravalash.github.io/Code-Quiz/",
     "description": "A game that challenges users to answer a set of questions with time lost for each question answered wrong"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title":"Weather Dashboard",
-    "bg": "weatherdashboard.jpg",
+    "bg": "/React-Portfoilio/static/media/weatherdashboard.548fac85.jpg",
     "repo":"https://github.com/ravalash/WeatherDashboard",
     "page":"https://ravalash.github.io/WeatherDashboard/",
     "description": "A tool for checking current and future weather conditions for different cities and easy storage of frequent searches"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title":"MovieMe",
-    "bg": "movieme.jpg",
+    "bg": "/React-Portfoilio/static/media/movieme.fff8fb22.jpg",
     "repo":"https://github.com/ravalash/MovieMe",
     "page":"https://ravalash.github.io/MovieMe/",
     "description": "A site designed to help movie lovers discover new content based on the films they already love"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title":"Password Generator",
-    "bg": "passwordgenerator.jpg",
+    "bg": "/React-Portfoilio/static/media/passwordgenerator.904eba2b.jpg",
     "repo":"https://github.com/ravalash/Password-Generator",
     "page":"https://ravalash.github.io/Password-Generator/",
     "description": "A tool for scheduling your work day and tracking your appointments"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title":"Eat-Da-Burger",
-    "bg": "eatdaburger.jpg",
+    "bg": "/React-Portfoilio/static/media/eatdaburger.2221ae3a.jpg",
     "repo":"https://github.com/ravalash/Burger",
     "page":"https://secret-fjord-48123.herokuapp.com/",
     "description": "A restaurant site that lets users plan, eat, and delete burgers"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "title":"Globe Plotter",
-    "bg": "globeplotter.jpg",
+    "bg": "/React-Portfoilio/static/media/globeplotter.a2373e9c.jpg",
     "repo":"https://github.com/ravalash/Globe-Plotter",
     "page":"http://theglobeplotter.com/",
     "description": "A travel planning site to help people discover their next favorite memory"

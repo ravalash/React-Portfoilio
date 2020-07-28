@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "572c026027112cdb0b39",
+    "revision": "bc6e80d792bdf13eeb2e",
     "url": "/React-Portfoilio/static/css/main.5be72520.chunk.css"
   },
   {
-    "revision": "572c026027112cdb0b39",
-    "url": "/React-Portfoilio/static/js/main.633fd62a.chunk.js"
+    "revision": "bc6e80d792bdf13eeb2e",
+    "url": "/React-Portfoilio/static/js/main.edff3907.chunk.js"
   },
   {
     "revision": "66636f56a27361d4c072",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/React-Portfoilio/static/media/globeplotter.a2373e9c.jpg"
   },
   {
-    "revision": "491891df3102955545e661907db3dddc",
+    "revision": "3e9466409dfe7f88dcf2bf5dff93e2b5",
     "url": "/React-Portfoilio/index.html"
   }
 ];
